@@ -73,7 +73,7 @@ define(['managerAPI',
             header: 'Welcome'
         }],
 
-        raceiat_instructions: [{
+        iat11_instructions: [{
             inherit: 'instructions',
             name: 'iat11_instructions',
             templateUrl: 'iat11_instructions.jst',
@@ -87,7 +87,7 @@ define(['managerAPI',
             scriptUrl: 'explicits.js'
         }],
 
-        raceiat: [{
+        iat11: [{
             type: 'time',
             name: 'iat11',
             scriptUrl: 'iat11.js'
